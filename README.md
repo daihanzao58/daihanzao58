@@ -1,11 +1,3 @@
 - 👋 Hi, I’m @daihanzao58
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-Experienced PHP backend developer. 
-Passionate about clean, efficient code, 
-scalable architectures, 
-and innovative problem solving. 
-Always learning.
+- 👀 I’m interested in Experienced PHP backend developer. Passionate about clean, efficient code, 
+- 🌱 I’m currently learning scalable architectures, and innovative problem solving. 
